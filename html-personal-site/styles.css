@@ -1,0 +1,23 @@
+body {
+  background-color:#93e7e7;
+  font-family: "Montserrat";
+}
+h1{
+  color: rgb(16, 84, 116);
+}
+
+img{
+  border-radius: 100%;
+}
+h3{
+  background-color: #ce9652;
+  color: rgb(16, 84, 116);
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color:  #ce9652;
+  border-width: 4px;
+  width: 5%;
+}
